@@ -1,4 +1,4 @@
-GAMES App
+Quiz App
 =========
 
 # Installation
